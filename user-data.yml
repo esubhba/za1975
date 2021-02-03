@@ -3,5 +3,5 @@ spring:
     url: jdbc:h2:file:./data/equity
     driver-class-name: org.h2.Driver
     username: za1975
-    password: {cipher}AQBZgkp2nUMFq9rLy27BJW4o61MFvMm6h6kY73fn8BzjEfWicrc/4eeap1eRfuDDnFO9If25sVLIrAEHPnmF4r3cxmltBuuyUy5ZIODZmLN9ung1xowI89eWqCxgqcCsOqHpiG7b32kTA7cfYTbg8EkcwYIrya7fM5qsEGX7MCi+7IIk/jPQlIKWdnmZF7WhmjTHpgAFF6yC0eub4tNAl2c+s9VIlnasMeQI18mNr/G1MW/mslIrO4wFxPps6kg8B1btVR3HOhXQlMOce4AFcMbGS5YAqcBRv7p9knEp7GGYeEnvi3efwm78ZnF39OLIoujf3Dtsfmned6psRL/p0RwGG3Y/OE3pDwa9YmKoRJfRt94x1YYjqP+ho/5XHz7OErI=
+    password:  '{cipher}AQBZgkp2nUMFq9rLy27BJW4o61MFvMm6h6kY73fn8BzjEfWicrc/4eeap1eRfuDDnFO9If25sVLIrAEHPnmF4r3cxmltBuuyUy5ZIODZmLN9ung1xowI89eWqCxgqcCsOqHpiG7b32kTA7cfYTbg8EkcwYIrya7fM5qsEGX7MCi+7IIk/jPQlIKWdnmZF7WhmjTHpgAFF6yC0eub4tNAl2c+s9VIlnasMeQI18mNr/G1MW/mslIrO4wFxPps6kg8B1btVR3HOhXQlMOce4AFcMbGS5YAqcBRv7p9knEp7GGYeEnvi3efwm78ZnF39OLIoujf3Dtsfmned6psRL/p0RwGG3Y/OE3pDwa9YmKoRJfRt94x1YYjqP+ho/5XHz7OErI='
     owner-name: SU2016531@wipro.com
