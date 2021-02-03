@@ -3,4 +3,4 @@ spring:
     url: jdbc:h2:file:./data/equity
     driver-class-name: org.h2.Driver
     username: za1975
-    password: User@123#
+    password: {cipher}AQBc1nt4D2ZOpQIGV7hn4UaNiUeUSa3e+6h/jRcHu2YK5aQi/eHtbvil8M/nw8ZXy+fICxjzn0QfWWZZAyCExrCbk1DZlEQDTzCIGArj70YW1i3stktajVXVJxrNfX9QRHbnNlLaQO1iBigX32Sopi+EHdtS0U9aSjDZP0EquvojTIC/HMvs9QKDXeVl9c/XUAv2wqhFOidy4SCkfxMU+5QLbzGeCjnvl8a3Wa0FB403Ga+xF/qr8Sy4MNSP5OUhESxh826ds4uLED+TpWGeQ0k2sOSJOIWOa/QKN9/pFYG3RI1Ma/vta1ltB7yHcM0m7LZmu9UbMQ30Dix8xznt7YTVl3xudtaPc8T7FQe5em++VQmbDf5wS7Jkzi4NSMjhXZw=
