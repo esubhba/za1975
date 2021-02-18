@@ -1,10 +1,7 @@
 token:
   expiration-time : 36000000
   secrit-key: 7e85t6M60:70
-eureka: 
- instance: 
-  prefer-ip-address: true
   
-  eureka:
-   client:
-    eureka-server-d-n-s-name: DESKTOP-Q50BHSL
+eureka:
+  client:
+   eureka-server-d-n-s-name: DESKTOP-Q50BHSL
