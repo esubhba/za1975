@@ -4,3 +4,7 @@ token:
 eureka: 
  instance: 
   prefer-ip-address: true
+  
+  eureka:
+   client:
+    eureka-server-d-n-s-name: DESKTOP-Q50BHSL
