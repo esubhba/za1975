@@ -1,6 +1,6 @@
 spring:
  datasource:
-    url: jdbc:postgresql://localhost:5432/ZA1975  
+    url: jdbc:postgresql://localhost:5432/za1975  
     username: za1975
     password:  '{cipher}AQBZnsqBpQWa5XjQ3vU7caN42nRZgw/9x4y4ljlnwXY57aOOTc4puVCOeAmqG1xOLuhyMa9c0aar1SWVJj4oikJ/krJTVtrIg1+c4B43n9Sdv9r+wTXb9Ez49diM35sCF662HoERtnEwMMcF5O7vnCXtzuNLUW5ggo9Y5l1h2dKMMO/nRFco0tje3usOuZdZ2IKGh2yTpm1NXWKni72aqyq66A37dgSC7ZKa5+oetG0y/bFyU5omvFVwYO83iHhuKEARrhZmhzUqKflXfpvuutKwC8EjSUFyCnhzeEP9gwkXTnjnKCm5+3DH1QaxnBpStzFY2ZbdRVAu1XkEF3aalUtPxMVg6a5bVcjIA3w9MIJQsXhsbLntyfO4plXF2dOpAb0='
     hikari:
