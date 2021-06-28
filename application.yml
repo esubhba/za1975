@@ -9,4 +9,4 @@ eureka:
   client:
    eureka-server-d-n-s-name: DESKTOP-VT4C28K
    service-url:
-      defaultZone: http://{za1975.eureka.user-name}:{za1975.eureka.password}@localhost:8761/eureka
+      defaultZone: http://${za1975.eureka.user-name}:${za1975.eureka.password}@localhost:8761/eureka

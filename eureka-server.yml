@@ -4,11 +4,7 @@ spring:
       name: za1975
       password:  '{cipher}AQAQAKRF3OwfoiaXSzygCkxPFS1nvPIcHE8t1i+hnroUDkvgDfj0a5o+IO1LCtOfx+j+QzWs/O0D7jUKC7ag4k3DdqJ0kXX4tBmQx1C4in3rzCwyhWHJeOxpWPpgwIFca9VuWijj8C4V9+FMeo/p6df5cK7BIRYhK6YNwvw9vQ6ITTULz4FmZE0HzdNv6GeyGcW2p3QAKsEHVQ7WDFn0mIdpv1tNiw04prF+NQ5i23Ry9Ot05GMEXv0HlGA6Vl6/RLfE4NM8mPmo6w92K4f0BUq6DIsC7+OJhoc4RSWJFs7oJr0xKozfYPV1qV06p3Nd76KGb5FQU1OuPtpuYjlPzzElH8G4hh8/gfQqppXFaeLMkOQmgsIT7DmI50IuetkJrfA='
 eureka:
-  client:    
-    fetch-registry: false
-    register-with-eureka: false   
-    eureka-server-d-n-s-name: DESKTOP-VT4C28K 
-    service-url:
-      defaultZone: http://localhost:8761/eureka
-  dashboard:
-    enabled: true      
+  client:
+   eureka-server-d-n-s-name: DESKTOP-VT4C28K
+   service-url:
+      defaultZone: http://${za1975.eureka.user-name}:${za1975.eureka.password}@localhost:8761/eureka    
